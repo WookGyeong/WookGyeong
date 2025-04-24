@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=488BFF&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=64" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=488BFF&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=eeeeee&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=64" />
 
 <div align="center">
   <h3>About Me</h3>
