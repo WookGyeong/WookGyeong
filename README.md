@@ -1,4 +1,4 @@
-## https://capsule-render.vercel.app/api?type=blur&height=350&color=488BFF%&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=000&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=60
+<img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=488BFF&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=60" />
 
 <!--
 **WookGyeong/WookGyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
