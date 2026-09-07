@@ -6,10 +6,11 @@
   사람과 디자인 사이, 더 나은 연결을 고민하는 프로덕트 디자이너 김경욱입니다.  
   <br><br>
   <a href="https://www.behance.net/woook" target="_blank">GyeongWook Kim Portfolio</a>
-
+  
 <h3>My Work</h3>
-  <p>
-    ✨ <a href="https://github.com/..." target="_blank"><b>MY WORK</b></a> <br>
+  <a href="https://www.instagram.com/woog_archive" target="_blank">
+    <img src="https://img.shields.io/badge/@woog_archive-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @woog_archive" />
+  </a>
 
   
   <br><br>
