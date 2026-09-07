@@ -13,6 +13,6 @@
   <p>
     <b>Depromeet 18th</b> | Product Designer (2026.03 - 2026.07)<br>
     <b>DND 11th</b> | Product Designer (2024.06 - 2024.08)<br>
-    <b>LFD 10th</b> | Designer (2026.07 - ing)
+    <b>LFD 10th</b> | Visual Designer (2026.07 - ing)
   </p>
 </div>
