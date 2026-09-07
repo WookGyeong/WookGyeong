@@ -7,6 +7,12 @@
   <br><br>
   <a href="https://www.behance.net/woook" target="_blank">GyeongWook Kim Portfolio</a>
 
+<h3>My Work</h3>
+  <p>
+    🚀 <a href="https://github.com/..." target="_blank"><b>Project Title 1</b></a> — 프로젝트 한 줄 설명<br>
+    🌱 <a href="https://github.com/..." target="_blank"><b>Project Title 2</b></a> — 프로젝트 한 줄 설명<br>
+    ✨ <a href="https://github.com/..." target="_blank"><b>Project Title 3</b></a> — 프로젝트 한 줄 설명
+    
   <br><br>
 
   <h3>Activities</h3>
