@@ -7,19 +7,12 @@
   <br><br>
   <a href="https://www.behance.net/woook" target="_blank">GyeongWook Kim Portfolio</a>
 
+  <br><br>
+
+  <h3>Activities</h3>
+  <p>
+    <b>Depromeet 18th</b> | Product Designer (2026.03 - 2026.07)<br>
+    <b>DND 11th</b> | Product Designer (2024.06 - 2024.08)<br>
+    <b>LFD 10th</b> | Designer (2024.03 - 2024.06)
+  </p>
 </div>
-
-<!--
-**WookGyeong/WookGyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
