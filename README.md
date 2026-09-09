@@ -34,47 +34,39 @@
 <div align="center">
 
 <br/>
-
-### 💼 Experience
-
-`2025.03 - 2025.04` &nbsp;|&nbsp; **단디자인** &nbsp;·&nbsp; `Samsung One UI` `UX/UI`  
-<small>Samsung One UI 기반 Wallet / Health 컴포넌트 및 GUI 제작</small>
-
-`2023.06 - 2023.07` &nbsp;|&nbsp; **국립낙동강생물자원관** &nbsp;·&nbsp; `전시팀 인턴`
+<div align="center">
 
 <br/>
 
-### 🎓 Education
+### Milestones & Archive
 
-`2023.03 - ing` &nbsp;|&nbsp; **영남대학교** 시각디자인학과 &nbsp;·&nbsp; `복수전공`  
-`2021.03 - ing` &nbsp;|&nbsp; **영남대학교** 산업디자인학과 &nbsp;·&nbsp; `주전공`
+`2026`
+**대한민국디자인전람회** 서비스디자인부문 본선 진출  
+**K-Design Award** Winner
+
+`2025`
+**단디자인** | UX/UI Designer (Samsung One UI Wallet · Health)  
+**한국HCI학회** | AR 기반 수중 고글 UI 가이드라인 구두발표  
+**한국디자인학회** | 인지피로 완화 스마트폰 알림 개선 연구 구두발표  
+**카카오뱅크 x 한국핀테크지원센터 Fin:nect** 우수상 · **밀양시 공공디자인** 금상  
+**K-Design Award** Winner
+
+`2024`
+**동성로 브랜드 개발 디자인 공모전** 대상  
+**영남대 미래 모빌리티 경진대회** UX 최우수상 · **경북 산업디자인전람회** 특선/입선  
+**경남 K-디자인 어워드** 특별상 및 입선
+
+`2023`
+**국립낙동강생물자원관** 전시팀 현장실습  
+**영남대학교** 시각디자인학과 복수전공 진입 · 인권 콘텐츠 공모전 장려상
+
+`2021 - 2022`
+**부산광역시 공공디자인 공모전** 대상 (`2022`)  
+**영남대학교** 산업디자인학과 입학 (`2021`) · **대전시 공공디자인 공모전** 장려상 (`2021`)
 
 <br/>
 
-### 🔬 Research
-
-`2025.09 - 2025.12` &nbsp;|&nbsp; **AR 기반 수중 고글 UI 가이드라인 제안** &nbsp;·&nbsp; `HCI` `AR`  
-<small>제주 해녀 공동체의 상호구조 체계 강화 · 한국HCI학회 구두발표</small>
-
-`2025.01 - 2025.06` &nbsp;|&nbsp; **운전 중 인지피로 완화 스마트폰 알림 연구** &nbsp;·&nbsp; `UX` `학술대회`  
-<small>한국디자인학회 대학생 디자인 학술대회 구두발표</small>
-
-<br/>
-
-### 🏆 Honors & Awards
-
-`2026.08` &nbsp;|&nbsp; **대한민국디자인전람회** 서비스디자인부문 &nbsp;·&nbsp; `본선 진출`  
-`2026.07` &nbsp;|&nbsp; **K-Design Award** &nbsp;·&nbsp; `Winner`  
-`2025.11` &nbsp;|&nbsp; **밀양시 가설울타리 공공디자인 공모전** &nbsp;·&nbsp; `금상`  
-`2025.08` &nbsp;|&nbsp; **카카오뱅크 x 한국핀테크지원센터 Fin:nect** &nbsp;·&nbsp; `우수상 (2nd)`  
-`2025.07` &nbsp;|&nbsp; **K-Design Award** &nbsp;·&nbsp; `Winner`  
-`2024.12` &nbsp;|&nbsp; **동성로 브랜드 개발 디자인 공모전** &nbsp;·&nbsp; `대상`  
-`2024.12` &nbsp;|&nbsp; **경상북도 산업디자인전람회** &nbsp;·&nbsp; `특선 / 입선`  
-`2024.11` &nbsp;|&nbsp; **영남대 미래 모빌리티 디자인 경진대회** &nbsp;·&nbsp; `최우수상`  
-`2024 / 23` &nbsp;|&nbsp; **경남 K-디자인 어워드** &nbsp;·&nbsp; `특별상` `입선 2회`  
-`2023.00` &nbsp;|&nbsp; **영남대학교 인권 콘텐츠 공모전** &nbsp;·&nbsp; `장려상`  
-`2022.09` &nbsp;|&nbsp; **부산광역시 공공디자인 공모전** &nbsp;·&nbsp; `대상`  
-`2021.06` &nbsp;|&nbsp; **대전광역시 공공디자인 공모전** &nbsp;·&nbsp; `장려상`
+</div>
 
 <br/>
 
