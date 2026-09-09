@@ -36,8 +36,8 @@
   <!-- 6. ERROR-FREE SINGLE TABLE -->
   <table style="border-collapse: collapse; width: 100%; max-width: 680px; text-align: left;">
     <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">💼 EXPERIENCE</td></tr>
-    <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.03 - 2025.04</code></td><td style="padding: 5px 12px;">단디자인</td><td style="padding: 5px 12px;">UX/UI Designer · Samsung One UI GUI</td></tr>
-    <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2023.06 - 2023.07</code></td><td style="padding: 5px 12px;">국립낙동강생물자원관</td><td style="padding: 5px 12px;">전시팀 현장실습</td></tr>
+    <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.03 - 2025.04</code></td><td style="padding: 5px 12px;">DesignStudio Dan</td><td style="padding: 5px 12px;">UX/UI Designer · Samsung One UI GUI</td></tr>
+    <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2023.06 - 2023.07</code></td><td style="padding: 5px 12px;">국립낙동강생물자원관</td><td style="padding: 5px 12px;">전시교육실 전시팀 인턴</td></tr>
     <tr><td colspan="3" style="height: 14px; border: none; background: transparent;"></td></tr>
     <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">🎓 EDUCATION</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2023.03 - Present</code></td><td style="padding: 5px 12px;">영남대학교 시각디자인학과</td><td style="padding: 5px 12px;">복수전공</td></tr>
