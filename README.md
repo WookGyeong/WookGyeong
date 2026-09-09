@@ -30,6 +30,7 @@
     </text>
   </svg>
 </div>
+</div>
 
   <!-- 2. TYPING SLOGAN -->
   <p align="center" style="margin-top: 18px; margin-bottom: 8px;">
