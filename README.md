@@ -44,7 +44,7 @@
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2021.03 - Present</code></td><td style="padding: 5px 12px;">영남대학교 산업디자인학과</td><td style="padding: 5px 12px;">주전공</td></tr>
     <tr><td colspan="3" style="height: 14px; border: none; background: transparent;"></td></tr>
     <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">🔬 RESEARCH</td></tr>
-    <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.09 - 2025.12</code></td><td style="padding: 5px 12px;">한국HCI학회</td><td style="padding: 5px 12px;">AR 기반 수중 고글 UI 가이드라인 (구두발표)</td></tr>
+    <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.09 - 2025.12</code></td><td style="padding: 5px 12px;">한국HCI학회</td><td style="padding: 5px 12px;">제주 해녀 공동체의 상호구조 체계 강화를 위한 AR 기반 수중 고글 UI 가이드라인 연구 (구두발표)</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.01 - 2025.06</code></td><td style="padding: 5px 12px;">한국디자인학회</td><td style="padding: 5px 12px;">인지피로 완화 스마트폰 알림 연구 (구두발표)</td></tr>
     <tr><td colspan="3" style="height: 14px; border: none; background: transparent;"></td></tr>
     <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">🏆 HONORS & AWARDS</td></tr>
