@@ -2,7 +2,7 @@
 
   <!-- 1. GRADIENT BLUR HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&customColorList=6E7BFF,8F7BFF,B07CFF,D97EFF,FF7BE5&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=64" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&customColorList=24,25,26,27,28&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=64" />
 </div>
 
   <!-- 2. TYPING SLOGAN -->
