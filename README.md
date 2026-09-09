@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- 1. MINT-CORAL GRADIENT BLUR HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&customColorList=0,12,24,30&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=64" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=5EEAD4,38BDF8,FB7185&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=64" />
+</div>
 
   <!-- 2. TYPING SLOGAN -->
   <p align="center" style="margin-top: 18px; margin-bottom: 8px;">
