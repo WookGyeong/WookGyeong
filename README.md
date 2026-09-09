@@ -2,7 +2,33 @@
 
   <!-- 1. GRADIENT BLUR HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=350&color=gradient&customColorList=24,25,26,27,28&text=Gyeong%20Wook,%20Kim&section=header&reversal=true&textBg=false&fontColor=ffffff&fontAlign=50&animation=twinkling&descAlignY=100&fontSize=64" />
+  <svg width="350" height="350" viewBox="0 0 350 350" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- 오른쪽 그래픽과 1:1 일치하는 방사형 네온 그라디언트 -->
+      <radialGradient id="neonGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+        <stop offset="0%" stop-color="#FFA8FF" />
+        <stop offset="25%" stop-color="#E56BFF" />
+        <stop offset="55%" stop-color="#8B5CF6" />
+        <stop offset="85%" stop-color="#5C45FD" />
+        <stop offset="100%" stop-color="#4F3BEE" />
+      </radialGradient>
+      <!-- 은은한 트윙클 발광 애니메이션 -->
+      <filter id="softBlur" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="12" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over" />
+      </filter>
+    </defs>
+
+    <!-- 메인 발광 구체 -->
+    <circle cx="175" cy="175" r="145" fill="url(#neonGlow)" filter="url(#softBlur)">
+      <animate attributeName="opacity" values="0.92;1;0.92" dur="3s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- 중앙 타이포그래피 -->
+    <text x="50%" y="54%" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+      Gyeong Wook, Kim
+    </text>
+  </svg>
 </div>
 
   <!-- 2. TYPING SLOGAN -->
