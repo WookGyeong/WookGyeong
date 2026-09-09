@@ -8,15 +8,16 @@
   <br><br>
   <a href="https://www.behance.net/woook" target="_blank">GyeongWook Kim Portfolio</a>
 
+
   
 <h3>My Work</h3>
   <a href="https://www.instagram.com/woog_archive" target="_blank">
     <img src="https://img.shields.io/badge/@woog_archive-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @woog_archive" />
   </a>
 
+
   
   <br><br>
-
   <h3>Activities</h3>
   <p>
     <b>Depromeet 18th</b> | Product Designer (2026.03 - 2026.07)<br>
@@ -24,6 +25,7 @@
     <b>LFD 10th</b> | Visual Designer (2026.07 - ing)
   </p>
 </div>
+
 
 
 
