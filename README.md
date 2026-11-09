@@ -50,6 +50,7 @@
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.01 - 2025.06</code></td><td style="padding: 5px 12px;">한국디자인학회</td><td style="padding: 5px 12px;">운전 중 인지피로 완화를 위한 스마트폰 알림개선 연구</td></tr>
     <tr><td colspan="3" style="height: 14px; border: none; background: transparent;"></td></tr>
     <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">🏆 HONORS & AWARDS</td></tr>
+    <tr><td colspan="3" style="padding: 0 12px 8px; font-size: 13px; color: #888;">Total 25 Awards</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2026.08</code></td><td style="padding: 5px 12px;">대한민국디자인전람회</td><td style="padding: 5px 12px;">은상 · 장관상</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2026</code></td><td style="padding: 5px 12px;">경남 K-디자인 어워드</td><td style="padding: 5px 12px;">금상</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2026</code></td><td style="padding: 5px 12px;">강원디자인전람회</td><td style="padding: 5px 12px;">입선 * 2</td></tr>
