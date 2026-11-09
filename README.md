@@ -1,6 +1,3 @@
-
-
-```html
 <div align="center">
 
   <!-- 1. GRADIENT BLUR HEADER -->
@@ -69,5 +66,3 @@
   </table>
 
 </div>
-```
-
