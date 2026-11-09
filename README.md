@@ -48,15 +48,16 @@
     <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">🔬 RESEARCH</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.09 - 2025.12</code></td><td style="padding: 5px 12px;">한국HCI학회</td><td style="padding: 5px 12px;">제주 해녀 공동체의 상호구조 체계 강화를 위한 AR 기반 수중 고글 UI 가이드라인 연구</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2025.01 - 2025.06</code></td><td style="padding: 5px 12px;">한국디자인학회</td><td style="padding: 5px 12px;">운전 중 인지피로 완화를 위한 스마트폰 알림개선 연구</td></tr>
-    <tr><td colspan="3" style="height: 14px; border: none; background: transparent;"></td></tr>
-    <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">🏆 HONORS & AWARDS</td></tr>
-<tr>
-  <td colspan="3" style="padding: 8px 12px 10px; font-size: 13px; letter-spacing: 0.3px;">
 <tr>
   <td colspan="3" style="padding: 8px 12px;">
     <div style="display: flex; align-items: center; justify-content: space-between;">
       <span style="font-weight: 700;">🏆 HONORS & AWARDS</span>
       <span style="display: inline-block; border: 1px solid #6366F1; border-radius: 6px; padding: 4px 9px; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; color: #6366F1; white-space: nowrap;">
+        25 AWARDS
+      </span>
+    </div>
+  </td>
+</tr>      <span style="display: inline-block; border: 1px solid #6366F1; border-radius: 6px; padding: 4px 9px; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; color: #6366F1; white-space: nowrap;">
         25 AWARDS
       </span>
     </div>
