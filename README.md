@@ -52,8 +52,16 @@
     <tr><td colspan="3" style="padding: 8px 12px; font-weight: 700;">🏆 HONORS & AWARDS</td></tr>
 <tr>
   <td colspan="3" style="padding: 8px 12px 10px; font-size: 13px; letter-spacing: 0.3px;">
-    <span style="font-weight: 700;">HONORS & AWARDS</span>
-    <span style="float: right; color: #888; font-size: 12px;">25 awards in total</span>
+<tr>
+  <td colspan="3" style="padding: 8px 12px;">
+    <div style="display: flex; align-items: center; justify-content: space-between;">
+      <span style="font-weight: 700;">🏆 HONORS & AWARDS</span>
+      <span style="display: inline-block; border: 1px solid #6366F1; border-radius: 6px; padding: 4px 9px; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; color: #6366F1; white-space: nowrap;">
+        25 AWARDS
+      </span>
+    </div>
+  </td>
+</tr>    <span style="float: right; color: #888; font-size: 12px;">25 awards in total</span>
   </td>
 </tr>    <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2026.08</code></td><td style="padding: 5px 12px;">대한민국디자인전람회</td><td style="padding: 5px 12px;">은상 · 장관상</td></tr>
     <tr><td style="padding: 5px 12px; white-space: nowrap;"><code>2026</code></td><td style="padding: 5px 12px;">경남 K-디자인 어워드</td><td style="padding: 5px 12px;">금상</td></tr>
